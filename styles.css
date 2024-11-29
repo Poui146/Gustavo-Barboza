@@ -1,0 +1,8 @@
+<main><div class="passo ativo" id="passo-0"><img src="img/cenario-passo0.png" alt=""><p></p>Um dia,
+um grupo de amigos em uma escola,
+tiveram uma ideia de ir visitar uma casa abandonada que tinha na rua da esquerda,
+tinham historias que falavam que a casa guardava alguma coisa valiosa que ninguém conseguiu pegar. No caminho para lá uma senhora os parou e os alertou que eles não deverim ir lá,
+mas eles não escutaram e continuaram <button class="btn-proximo" data-proximo="1">São Paulo</button><button class="btn-proximo" data-proximo="2">Guarulho</button></div><div class="passo" id="passo-1"><p>Eles começaram sua jornada em São Paulo,
+subindo a rua da Liberdade eles caminharam durante uns 30 minutos a caminho de alguma pisra sobre o tesouro</p><button class="btn-proximo" data-proximo="3">continuar procurando</button><button class="btn-proximo" data-proximo="4">Desistir e voltar para casa</button></div><div class="passo" id="passo-2"><p>Em Pernambuco,
+você visita a histórica cidade de Olinda. Na carta,
+uma das pistas indica que para localizar a entrada para a cidade perdida você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por qual você começa?</p><button class="btn-proximo" data-proximo="5">procurar na bibliteca</button><button class="btn-proximo" data-proximo="6">Explorar as praias próximas</button></div>
